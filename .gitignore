@@ -1,0 +1,6 @@
+/target
+/.ntbk
+/*.txt
+/*.md
+!/README.md
+!/AGENTS.md
